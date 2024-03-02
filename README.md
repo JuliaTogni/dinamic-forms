@@ -19,7 +19,9 @@ O projeto permitiu um aprofundamento no uso de TypeScript, evidenciando sua util
 A experiência prática com a criação de um formulário dinâmico reforçou conceitos teóricos de Angular e demonstrou a eficácia de uma abordagem baseada em metadados para adaptar formulários a diferentes cenários sem necessidade de alterações de código.
 
 
-##Print com o código em funcionamento 
+## Print com o código em funcionamento 
+![Texto alternativo](./src/assets/Captura%20de%20tela%202024-02-26%20104848.png)
+![Texto alternativo](./src/assets/Captura%20de%20tela%202024-02-26%20112811.png)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
